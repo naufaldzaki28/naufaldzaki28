@@ -15,8 +15,8 @@ Mahasiswa Informatika semester 4 di UIN Sunan Gunung Djati Bandung yang berdomis
 
 ## 🏆 Pencapaian & Pengalaman:
 - Partisipan DevFest Cloud Bandung (Cloud & AI Festival).
-- Partisipan IT Fair XIV & Badan EKRAF Developer Day.
-- Berpengalaman dalam manajemen data kependudukan sebagai petugas Pantarlih Pemilu 2024.
+- Partisipan IT Fair XIV &
+- Partisipan Badan Day Developer Kementrian Ekraf
 
 ---
 📫 **Mari terhubung:** 
