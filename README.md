@@ -1,16 +1,23 @@
-## Hi there 👋
+# Halo, Saya Naufal Dzaki 👋
 
-<!--
-**naufaldzaki28/naufaldzaki28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa Informatika semester 4 di UIN Sunan Gunung Djati Bandung yang berdomisili di Baleendah, Kabupaten Bandung. Saya adalah seorang **Full-stack Developer** yang berfokus pada pengembangan sistem informasi pelayanan publik.
 
-Here are some ideas to get you started:
+## 🚀 Proyek Utama Saya:
+- **SIEMPUS** (Sistem Informasi Pelayanan Puskesmas): Digitalisasi manajemen kesehatan masyarakat berbasis Laravel.
+- **e-Layak**: Platform layanan kampus digital buatan mandiri untuk efisiensi birokrasi mahasiswa.
+- **Project-Digipus**: Sistem manajemen perpustakaan digital untuk akses literasi yang lebih mudah.
+- **Content Filter**: Sistem pendeteksi konten tidak pantas untuk menjaga keamanan ruang siber.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack:
+- **Languages & Frameworks:** PHP (Laravel), JavaScript (Node.js, Express.js), Java, C++ (OpenGL).
+- **Design Tools:** Figma, Canva Lite (Monthly Subscriber), CorelDraw.
+- **Tools & Platforms:** GitHub, Railway, MySQL.
+
+## 🏆 Pencapaian & Pengalaman:
+- Partisipan DevFest Cloud Bandung (Cloud & AI Festival).
+- Partisipan IT Fair XIV & Badan EKRAF Developer Day.
+- Berpengalaman dalam manajemen data kependudukan sebagai petugas Pantarlih Pemilu 2024.
+
+---
+📫 **Mari terhubung:** 
+- 📍 Baleendah, Kabupaten Bandung, Jawa Barat.
